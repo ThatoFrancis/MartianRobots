@@ -1,2 +1,23 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using MartianRobots.Models;
+using MartianRobots.Services;
+
+class Program
+{
+    static void Main()
+    {
+        // Sample Input from the Coding Challenge Document
+        var grid = new Grid(5, 3);
+        var service = new RobotService(grid);
+
+        RunRobot(service, new Position(1, 1, Direction.E), "RFRFRFRF");
+        RunRobot(service, new Position(3, 2, Direction.N), "FRRFLLFFRRFLL");
+        RunRobot(service, new Position(0, 3, Direction.W), "LLFFFLFLFL");
+    }
+
+    static void RunRobot(RobotService service, Position start, string instructions)
+    {
+        var result = service.Execute(start, instructions);
+        Console.WriteLine(result);
+    }
+}
