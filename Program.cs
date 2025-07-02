@@ -17,7 +17,14 @@ class Program
 
     static void RunRobot(RobotService service, Position start, string instructions)
     {
-        var result = service.Execute(start, instructions);
-        Console.WriteLine(result);
+        try
+        {
+            var result = service.Execute(start, instructions);
+            Console.WriteLine(result);
+        }
+        catch (InvalidOperationException ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
+        }
     }
 }
