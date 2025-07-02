@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\MartianRobots\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D338C8-EB76-449C-AE29-8F3A2C26093C}|MartianRobots.Tests\\MartianRobots.Tests.csproj|c:\\projects\\martianrobots\\martianrobots.tests\\martianrobots.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0D338C8-EB76-449C-AE29-8F3A2C26093C}|MartianRobots.Tests\\MartianRobots.Tests.csproj|solutionrelative:martianrobots.tests\\martianrobots.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3796BD-32B5-44A6-A2AF-16341B4E354E}|MartianRobots.csproj|c:\\projects\\martianrobots\\martianrobots.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C3796BD-32B5-44A6-A2AF-16341B4E354E}|MartianRobots.csproj|solutionrelative:martianrobots.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\MartianRobots\\obj\\Debug\\net9.0\\MartianRobots.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0\\MartianRobots.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\MartianRobots\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MartianRobots.csproj",
+              "DocumentMoniker": "C:\\Projects\\MartianRobots\\MartianRobots.csproj",
+              "RelativeDocumentMoniker": "MartianRobots.csproj",
+              "ToolTip": "C:\\Projects\\MartianRobots\\MartianRobots.csproj",
+              "RelativeToolTip": "MartianRobots.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T08:56:28.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MartianRobots.Tests.csproj",
+              "DocumentMoniker": "C:\\Projects\\MartianRobots\\MartianRobots.Tests\\MartianRobots.Tests.csproj",
+              "RelativeDocumentMoniker": "MartianRobots.Tests\\MartianRobots.Tests.csproj",
+              "ToolTip": "C:\\Projects\\MartianRobots\\MartianRobots.Tests\\MartianRobots.Tests.csproj",
+              "RelativeToolTip": "MartianRobots.Tests\\MartianRobots.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T08:52:31.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MartianRobots.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Projects\\MartianRobots\\obj\\Debug\\net9.0\\MartianRobots.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0\\MartianRobots.AssemblyInfo.cs",
+              "ToolTip": "C:\\Projects\\MartianRobots\\obj\\Debug\\net9.0\\MartianRobots.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0\\MartianRobots.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:56:58.235Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Projects\\MartianRobots\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Projects\\MartianRobots\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:53:38.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
